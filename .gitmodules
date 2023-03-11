@@ -1,3 +1,6 @@
 [submodule "bike-haat-client"]
 	path = bike-haat-client
 	url = https://github.com/Ronnie038/bike-haat-client
+[submodule "bike-haat-server"]
+	path = bike-haat-server
+	url = https://github.com/Ronnie038/bike-haat-server
